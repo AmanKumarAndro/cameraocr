@@ -16,6 +16,7 @@
     "@react-navigation/native-stack": "^7.3.21",
     "react": "19.1.0",
     "react-native": "0.80.0",
+    "react-native-fs": "^2.20.0",
     "react-native-gesture-handler": "^2.27.1",
     "react-native-pressable-opacity": "^1.0.10",
     "react-native-reanimated": "^3.18.0",

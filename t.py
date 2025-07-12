@@ -6,8 +6,8 @@ import os
 import glob
 
 # === CONFIGURATION ===
-tflite_model_path = 'anpr2_yolov9_int8.tflite'
-image_folder = '/Users/ishitkaroli/Downloads/license-plates'
+tflite_model_path = r'D:\Coding\WebDevelepoment\cameraocr\assets\anpr2_yolov9_int8.tflite'
+image_folder = r'D:\Coding\WebDevelepoment\cameraocr\plates'
 output_folder = image_folder  # Save results in the same folder
 
 # === STEP 1: Load up to 3 JPEG images ===
